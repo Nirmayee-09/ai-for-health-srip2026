@@ -5,7 +5,7 @@ Detecting breathing irregularities during sleep using physiological time-series 
 ## Project Structure
 ```
 internship/
-├── Data/              → raw participant data (AP01–AP05)
+├── Data/              → https://drive.google.com/file/d/1jNkzdYs_xcGa6TswvkluQKhC7LJUbDaq/view
 ├── Dataset/           → processed dataset (breathing_dataset.csv)
 ├── Visualizations/    → per-participant PDF plots
 ├── Results/           → confusion matrix image
