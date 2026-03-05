@@ -1,0 +1,1 @@
+df = df[~df["label"].isin(["Body event", "Mixed Apnea"])]
